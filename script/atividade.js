@@ -35,7 +35,7 @@ document.getElementById("form").addEventListener("submit", function(e) {
 
 
     document.getElementById("resultado").innerHTML = `
-        <h3>Dados enviados:</h3>
+        <h3>Dados Enviadoss👍🏻</h3>
         
     `;
 });
