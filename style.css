@@ -1,0 +1,28 @@
+body{
+background-image: url(foto/da.webp);
+justify-content: center;
+align-content: center;
+display: flex;
+}
+
+.teste{
+background-color: black;
+color: aliceblue;
+display: inline-block;
+padding: 20px;
+width: 292px;
+}
+
+.bob{
+background-color: black;
+padding: 20px;
+color: aliceblue;
+
+}
+.flex{
+display: flex;
+}
+.img{
+margin-right: 0%;
+
+}
